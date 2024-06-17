@@ -1,0 +1,26 @@
+{
+	"python.autoComplete.extraPaths": [
+		"/home/mark/ros_ws/install/test_interfaces/local/lib/python3.10/dist-packages",
+		"/home/mark/ros_ws/install/ros_sample_01/lib/python3.10/site-packages",
+		"/home/mark/ros_ws/install/robot_driver/lib/python3.10/site-packages",
+		"/home/mark/ros_ws/install/my_ros_bringup/lib/python3.10/site-packages",
+		"/home/mark/ros_ws/install/my_ros_01/lib/python3.10/site-packages",
+		"/home/mark/ros_ws/install/my_ros_interface/local/lib/python3.10/dist-packages",
+		"/home/mark/ros_ws/install/my_package/lib/python3.10/site-packages",
+		"/home/mark/ros_ws/install/RobotDriver/lib/python3.10/site-packages",
+		"/opt/ros/humble/lib/python3.10/site-packages",
+		"/opt/ros/humble/local/lib/python3.10/dist-packages"
+	],
+	"python.analysis.extraPaths": [
+		"/home/mark/ros_ws/install/test_interfaces/local/lib/python3.10/dist-packages",
+		"/home/mark/ros_ws/install/ros_sample_01/lib/python3.10/site-packages",
+		"/home/mark/ros_ws/install/robot_driver/lib/python3.10/site-packages",
+		"/home/mark/ros_ws/install/my_ros_bringup/lib/python3.10/site-packages",
+		"/home/mark/ros_ws/install/my_ros_01/lib/python3.10/site-packages",
+		"/home/mark/ros_ws/install/my_ros_interface/local/lib/python3.10/dist-packages",
+		"/home/mark/ros_ws/install/my_package/lib/python3.10/site-packages",
+		"/home/mark/ros_ws/install/RobotDriver/lib/python3.10/site-packages",
+		"/opt/ros/humble/lib/python3.10/site-packages",
+		"/opt/ros/humble/local/lib/python3.10/dist-packages"
+	]
+}
